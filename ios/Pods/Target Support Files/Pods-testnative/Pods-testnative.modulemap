@@ -1,0 +1,6 @@
+module Pods_testnative {
+  umbrella header "Pods-testnative-umbrella.h"
+
+  export *
+  module * { export * }
+}
